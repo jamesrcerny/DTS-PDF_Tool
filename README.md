@@ -1,9 +1,13 @@
-# DTS Tool & PDF Tool
+<img width="1425" height="1099" alt="Screenshot 2026-11-07 094753" src="https://github.com/user-attachments/assets/1d06a90c-5b79-4878-9eb6-858f70f0349c" /># DTS Tool & PDF Tool
 
 > A Windows desktop app for keeping Defense Travel System (DTS) expense receipts organized by trip, with built-in PDF tools for merging, converting, and compressing documents.
 
-![screenshot](docs/screenshot.png)
-<!-- Add a screenshot or GIF of the app running and save it as docs/screenshot.png. -->
+<img width="1421" height="1125" alt="Screenshot 2026-11-07 094718" src="https://github.com/user-attachments/assets/a411da2b-a736-4642-bcae-afa70870590d" />
+<img width="1423" height="1102" alt="Screenshot 2026-11-07 094726" src="https://github.com/user-attachments/assets/9435ebc5-8401-401d-af6a-9420f462dcaf" />
+<img width="1422" height="1120" alt="Screenshot 2026-11-07 094735" src="https://github.com/user-attachments/assets/3aa1716a-9f08-4a0c-8cb8-7803e4c44096" />
+<img width="1423" height="1110" alt="Screenshot 2026-11-07 094743" src="https://github.com/user-attachments/assets/bb3ed29d-b2fe-4cdf-89e7-5b8e053c7a16" />
+
+
 
 ---
 
