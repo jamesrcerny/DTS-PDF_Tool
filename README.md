@@ -1,2 +1,2 @@
 # pdftool
-A python based windows application can has basic pdf functions. It can merge pdfs into one documents, convert photos into pdfs, and compress file.
+A Python-based Windows application that has basic PDF functions. It can merge PDFs into one document, convert photos into PDFs, and compress files.
